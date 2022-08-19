@@ -1,0 +1,15 @@
+C:\Программы\С#\Exm\Exm001\bin\Debug\net6.0\Exm001.exe
+C:\Программы\С#\Exm\Exm001\bin\Debug\net6.0\Exm001.deps.json
+C:\Программы\С#\Exm\Exm001\bin\Debug\net6.0\Exm001.runtimeconfig.json
+C:\Программы\С#\Exm\Exm001\bin\Debug\net6.0\Exm001.dll
+C:\Программы\С#\Exm\Exm001\bin\Debug\net6.0\Exm001.pdb
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.csproj.AssemblyReference.cache
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.AssemblyInfoInputs.cache
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.AssemblyInfo.cs
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.csproj.CoreCompileInputs.cache
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.dll
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\refint\Exm001.dll
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.pdb
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\Exm001.genruntimeconfig.cache
+C:\Программы\С#\Exm\Exm001\obj\Debug\net6.0\ref\Exm001.dll
